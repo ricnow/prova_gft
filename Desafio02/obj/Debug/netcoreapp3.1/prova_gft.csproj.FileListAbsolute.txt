@@ -1,0 +1,13 @@
+C:\Users\riche\Documents\GitHub\prova_gft\bin\Debug\netcoreapp3.1\prova_gft.exe
+C:\Users\riche\Documents\GitHub\prova_gft\bin\Debug\netcoreapp3.1\prova_gft.deps.json
+C:\Users\riche\Documents\GitHub\prova_gft\bin\Debug\netcoreapp3.1\prova_gft.runtimeconfig.json
+C:\Users\riche\Documents\GitHub\prova_gft\bin\Debug\netcoreapp3.1\prova_gft.runtimeconfig.dev.json
+C:\Users\riche\Documents\GitHub\prova_gft\bin\Debug\netcoreapp3.1\prova_gft.dll
+C:\Users\riche\Documents\GitHub\prova_gft\bin\Debug\netcoreapp3.1\prova_gft.pdb
+C:\Users\riche\Documents\GitHub\prova_gft\obj\Debug\netcoreapp3.1\prova_gft.csprojAssemblyReference.cache
+C:\Users\riche\Documents\GitHub\prova_gft\obj\Debug\netcoreapp3.1\prova_gft.AssemblyInfoInputs.cache
+C:\Users\riche\Documents\GitHub\prova_gft\obj\Debug\netcoreapp3.1\prova_gft.AssemblyInfo.cs
+C:\Users\riche\Documents\GitHub\prova_gft\obj\Debug\netcoreapp3.1\prova_gft.csproj.CoreCompileInputs.cache
+C:\Users\riche\Documents\GitHub\prova_gft\obj\Debug\netcoreapp3.1\prova_gft.dll
+C:\Users\riche\Documents\GitHub\prova_gft\obj\Debug\netcoreapp3.1\prova_gft.pdb
+C:\Users\riche\Documents\GitHub\prova_gft\obj\Debug\netcoreapp3.1\prova_gft.genruntimeconfig.cache
